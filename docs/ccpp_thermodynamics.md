@@ -5,7 +5,7 @@
 A combined cycle power plant achieves high thermal efficiency by capturing waste heat from a gas turbine to drive a secondary steam turbine in a closed loop.
 
 <p align="center">
-  <img src="../ccpp_diagram.png" width="480">
+  <img src="../images/ccpp_diagram.png" width="480">
 </p>
 
 Process flow mapped to diagram steps:

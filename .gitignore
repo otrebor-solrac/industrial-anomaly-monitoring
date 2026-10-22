@@ -1,0 +1,11 @@
+# Data archives and raw datasets
+*.zip
+*_data/
+
+# Cache, checkpoints, and backups
+*.bak
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store

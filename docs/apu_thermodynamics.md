@@ -5,7 +5,7 @@
 The auxiliary pneumatic system provides compressed air for passenger train braking, air suspension, pantograph control, and automated doors. The Air Production Unit (APU) combines an oil-injected reciprocating compressor with an adsorption desiccant air dryer assembly to supply conditioned, dry compressed air to the main storage reservoirs.
 
 <p align="center">
-  <img src="../apu_architecture_diagram.png" width="920">
+  <img src="../images/apu_architecture_diagram.png" width="920">
 </p>
 
 Process flow mapped to operational stages:
